@@ -1,0 +1,25 @@
+for i in range(0,5):
+    for j in range(0,5):
+        print(j,end=" ")
+    print('\n')
+
+
+for i in range(0,5):
+    for j in range(0,5):
+        print("*",end=" ")
+    print('\n')
+
+k=1
+for m in range(0,3):
+    for l in range(0,2):
+        print(k,end=" ")
+        k=k+2
+    print("\n")
+
+k=1
+for  i in range(0,3):
+    for j in range(0,i+1):
+        print(k,end=" ")
+        k=k+1
+    print("\n")
+    

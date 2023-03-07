@@ -10,10 +10,11 @@ def add():
 def printtext():
     print("Python learning begins with besant")
     print("day3 Tranings")
+    print("Hello my dear")
 
-
-print (add())
 printtext()
+print (add())
+
 
 def addresult(num4,num5):
     newnum=num4 + num5 

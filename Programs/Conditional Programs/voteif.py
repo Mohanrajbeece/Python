@@ -1,4 +1,4 @@
-a=int(input("Enter the input a:"))
+a=int(("Enter the input:"))
 if a>=18:
     print("Eligible for vote")
 else:
